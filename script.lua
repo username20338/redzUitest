@@ -17,7 +17,7 @@ Window:AddMinimizeButton({
 local Tab1 = Window:MakeTab({"Um", "cherry"})
 
 Tab1:AddDiscordInvite({
-    Name = "Name Hub",
+    Name = "EmDevs",
     Description = "Join server",
     Logo = "rbxassetid://79779008204567",
     Invite = "Link discord invite",
