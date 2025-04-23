@@ -19,7 +19,7 @@ local Tab1 = Window:MakeTab({"Um", "cherry"})
 Tab1:AddDiscordInvite({
     Name = "Name Hub",
     Description = "Join server",
-    Logo = "rbxassetid://18751483361",
+    Logo = "rbxassetid://79779008204567",
     Invite = "Link discord invite",
 })
 
